@@ -753,6 +753,9 @@ header{
     fill: #4D5AE5; 
 }
 
+.input-div-input:focus + .svg-div-input{
+    fill: #4D5AE5; 
+}
 
 
 
