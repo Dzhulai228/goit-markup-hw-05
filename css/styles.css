@@ -815,10 +815,15 @@ header{
 }
 
 .link-privacy{
-    
+
 }
 
 
+.input-div-input:checked + .label-check-box span {
+    background-color: var(--OCEAN, #404BBF);
+        border: none;
+        fill: #F4F4FD;
+}
 
 
 
