@@ -690,7 +690,26 @@ header{
 
 }
 
-.paragraph-module-window{}
+.paragraph-module-window{
+    font-weight: 500; 
+    font-size: 16px;
+    line-height: 1.5; 
+    text-align: center; 
+    letter-spacing: 0.02em; 
+    color: #2E2F42;
+    margin-bottom: 16px;
+
+}
+
+.div-cont-module-window{
+    margin-bottom: 8px;
+
+}
+
+.label-name{
+    
+}
+
 
 
 
