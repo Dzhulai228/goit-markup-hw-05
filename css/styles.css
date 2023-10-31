@@ -681,12 +681,12 @@ header{
 .botton-module-window:focus{
     background-color: #404bbf; 
     border: none; 
-    
+    fill: #ffffff;
 }
 
 .svg-botton-module-window{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
-    
+
 }
 
 
